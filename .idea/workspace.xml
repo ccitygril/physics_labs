@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b673b1ab-8aab-4e7e-ab74-1f6c621d9133" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/laba_physics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba_2_06/dependency_Mu(H).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba_2_06/grafic_B(H).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba_2_06/лаб2.6.xlsx" afterDir="false" />
+    <list default="true" id="b673b1ab-8aab-4e7e-ab74-1f6c621d9133" name="Changes" comment="add new data">
+      <change afterPath="$PROJECT_DIR$/laba_2_08/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba_2_10/data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba_2_08/dependencys.py" beforeDir="false" afterPath="$PROJECT_DIR$/laba_2_08/dependencys.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +37,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.dependency_Mu(H).executor": "Run",
+    "Python.dependency_Rs.executor": "Run",
+    "Python.dependencys.executor": "Run",
+    "Python.ge_diode.executor": "Run",
+    "Python.grafic.executor": "Run",
     "Python.grafic_B(H).executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/marialuganskaa/laba_3/laba_physics",
@@ -52,6 +51,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/laba_2_08" />
+      <recent name="$PROJECT_DIR$/laba_2_10" />
+      <recent name="$PROJECT_DIR$/laba_2_07" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -71,6 +73,23 @@
       <option name="presentableId" value="Default" />
       <updated>1742227616945</updated>
     </task>
+    <task id="LOCAL-00001" summary="add lab 2.07">
+      <option name="closed" value="true" />
+      <created>1742817423660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742817423660</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add new data">
+      <option name="closed" value="true" />
+      <created>1744581664259</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744581664259</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +102,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add lab 2.07" />
+    <MESSAGE value="add new data" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new data" />
   </component>
 </project>
